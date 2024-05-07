@@ -1,2 +1,3 @@
-# DataArt
-DataArt and DataViz projects
+# Data Art
+This is a repository for random DataArt and DataViz projects.
+
